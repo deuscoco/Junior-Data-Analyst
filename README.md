@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm DEUSCOCO
 
 <p align="center">
-  <img src="assets/banners.jpeg" alt="Data Analyst Banner" width="600"/>
+  <img src="assets/banners.jpeg" alt="Data Analyst Banner" width="400"/>
 </p>
+
 
 ---
 
