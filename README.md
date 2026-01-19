@@ -1,32 +1,14 @@
-## Hi there I'm Amadeus👋
+# 👋 Hi, I'm Amadeus Daniel Adisaputra
 
-<!--
-**deuscoco/deuscoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi there, I'm Amadeus
-
-
-
-
+🎯 **Junior Data Analyst**  
+📊 Data Analysis | SQL | Python | Database  
 
 ---
 
-## 👋 Hi, I'm a Junior Data Analyst
+## 👋 About Me
 
-Saya adalah **Junior Analyst** yang sedang mengembangkan kemampuan di bidang **analisis data, pengolahan database, dan pemrograman**.  
-Repository ini saya gunakan sebagai **portofolio** untuk mendokumentasikan proyek, latihan, dan eksperimen selama proses belajar dan pengembangan skill.
+Saya adalah **Junior Data Analyst** yang sedang mengembangkan kemampuan di bidang **analisis data, pengolahan database, dan pemrograman**.  
+Repository ini saya gunakan sebagai **portofolio** untuk mendokumentasikan proyek, latihan, dan eksperimen selama proses belajar.
 
 ---
 
@@ -61,7 +43,9 @@ Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal kar
   </table>
 </p>
 
-## Skills
+---
+
+## 🛠️ Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -71,16 +55,21 @@ Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal kar
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+---
+
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.instagram.com/amaadeusdaniel?igsh=eW9tcWkyeGhmNDRs" target="_blank">
+  <a href="https://www.instagram.com/amaadeusdaniel" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@traarizz?_r=1&_t=ZS-93C1H1HzsMK" target="_blank">
+  <a href="https://www.tiktok.com/@traarizz" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
-[![Amadeus Daniel Adisaputra GitHub Stats]https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&count_private=true&theme=tokyonight
+---
 
+## 📊 GitHub Stats
+
+[![Amadeus Daniel Adisaputra GitHub Stats](https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/deuscoco)
