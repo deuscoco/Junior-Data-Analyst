@@ -78,6 +78,7 @@ Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal kar
 
 | Week | Focus Area | Description | Repository |
 |------|------------|-------------|------------|
-| Week 1 | Junior Data Analyst Project | Pengenalan workflow data analyst, eksplorasi data dasar, dan mini project | 🔗 [View Repository](https://github.com/deuscoco/junior-data-analyst) |
+| Week 1 | Junior Data Analyst Project | Pengenalan workflow data analyst, eksplorasi data dasar, dan mini project | 🔗 [View Repository](https://github.com/deuscoco/week-1-junior-data-analyst) |
 | Week 2 | Data Collection & Understanding | Teknik pengumpulan data, pemahaman struktur data, dan eksplorasi awal | 🔗 [View Repository](https://github.com/deuscoco/data-collection-understanding) |
+
 
