@@ -34,6 +34,7 @@
   ],
   "current_objective": "Building Industry Standard Portfolio"
 }
+
 ⚡ Saya tidak hanya mengolah angka — saya menerjemahkan data mentah menjadi insight untuk pengambilan keputusan.
 
 🛠️ Tech Stack Arsenal
