@@ -1,17 +1,16 @@
 # 🇮🇩 README PROFILE - AMADEUS DANIEL
 
-
 <div align="center">
 
 <!-- Header dengan gradasi cream dan motif batik -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=f5e8c7,e6d2a8&height=220&section=header&text=AMADEUS%20DANIEL&fontSize=52&fontColor=8B4513&animation=fadeIn&fontAlignY=40&desc=Analis%20Data%20%7C%20Bangga%20Produk%20Indonesia&descAlignY=65&descSize=22&descColor=795548" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=f5e8c7,e6d2a8&height=220&section=header&text=AMADEUS%20DANIEL&fontSize=52&fontColor=8B4513&animation=fadeIn&fontAlignY=40&desc=Junior%20Data%20Analyst%20%7C%20Bangga%20Produk%20Indonesia&descAlignY=65&descSize=22&descColor=795548" width="100%" />
 
 <!-- Typing dengan font yang lebih tradisional -->
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=4000&pause=2000&color=8B4513&background=F5E8C700&center=true&vCenter=true&width=1000&height=80&lines=Mengolah+Data+dengan+Nilai+Keindonesiaan;Merajut+Insight+seperti+Membatik;Analisis+yang+Menghormati+Kontekstualitas;Teknologi+Global%2C+Nilai+Lokal" alt="Typing SVG" />
 
 <!-- Badges dengan ikon tradisional Indonesia -->
 <div>
-  <img src="https://img.shields.io/badge/🪶-Analis_Data_Indonesia-8B4513?style=for-the-badge&logoColor=white&labelColor=F5E8C7"/>
+  <img src="https://img.shields.io/badge/🪶-Junior_Data_Analyst-8B4513?style=for-the-badge&logoColor=white&labelColor=F5E8C7"/>
   <img src="https://img.shields.io/badge/🎯-Python_SQL_Jawa-795548?style=for-the-badge&logo=python&logoColor=white&labelColor=F5E8C7"/>
   <img src="https://img.shields.io/badge/📜-Visualisasi_Ala_Nusantara-D4A017?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F5E8C7"/>
   <img src="https://img.shields.io/badge/🌺-Pembelajar_Berkebudayaan-228B22?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7"/>
@@ -21,7 +20,7 @@
 
 ---
 
-## 🏮 **PROFIL: ANALIS DATA BERWAWASAN KEBUDAYAAN**
+## 🏮 **PROFIL: JUNIOR DATA ANALYST BERWAWASAN KEBUDAYAAN**
 
 ### **🪶 Lembaran Identitas**
 > ***"Seperti seorang empu yang menempa keris, saya menempa data menjadi insight yang tajam dan bermakna."***
@@ -33,7 +32,7 @@
 **🎭 Identitas Diri**
 ```
 Nama    : Amadeus Daniel Adisaputra
-Gelar   : Junior Data Analyst  
+Posisi  : Junior Data Analyst  
 Asal    : Tanah Air Indonesia
 Falsafah: "Data untuk kemaslahatan"
 Status  : 🌱 Berkembang seperti padi
@@ -72,13 +71,10 @@ Status  : 🌱 Berkembang seperti padi
 | Eksplorasi Data | ★★★☆☆ (70%) | 🔍 | *Teliti seperti pengrajin* |
 | Statistik Dasar | ★★★☆☆ (65%) | 📊 | *Presisi seperti timbangan tradisional* |
 | **Visualisasi** | | **🎨** *Lukisan Kaca* | |
-| Tableau | ★★★★☆ (80%) | 📊 | *Cantik seperti batik* |
-| Power BI | ★★★☆☆ (65%) | 📈 | *Praktis seperti anyaman* |
 | Matplotlib | ★★★☆☆ (60%) | 🐍 | *Customizable seperti wayang* |
 | **Alat Bantu** | | **🛠️** *Perkakas Tradisional* | |
 | Git | ★★★★☆ (85%) | 🌳 | *Sejarah seperti prasasti* |
 | VS Code | ★★★★☆ (80%) | ✍️ | *Pena modern* |
-| Jupyter | ★★★★★ (90%) | 📓 | *Buku catatan digital* |
 
 ### **📈 Visualisasi Kemampuan (Bentuk Gunungan Wayang)**
 ```
@@ -138,6 +134,64 @@ Visualization        Business Insight
 
 ---
 
+## 🖼️ **GALERI VISUAL: DATA DALAM SENI INDONESIA**
+
+### **🎭 Visualisasi dari Assets Repository**
+> ***"Data yang divisualisasikan dengan indah seperti batik - setiap pola memiliki cerita."***
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📊 Pola Alur Kerja Analisis**  
+![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc2.png)  
+*"Seperti alur sungai di Nusantara, data mengalir dari sumber hingga insight"*
+
+**🎨 Motif Terinspirasi:** Aliran sungai tradisional dalam relief candi
+
+</td>
+<td align="center" width="50%">
+
+**📈 Dashboard dengan Sentuhan Lokal**  
+![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc.png)  
+*"Dashboard seperti peta kuno - menunjukkan jalan menuju harta karun insight"*
+
+**🎨 Motif Terinspirasi:** Peta kuno Nusantara dan kompas tradisional
+
+</td>
+</tr>
+</table>
+</div>
+
+### **🎨 Layout Visualisasi Data**
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📊 Analisis Data UMKM**  
+![UMKM Analysis](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/umkm_analysis.png)  
+*"Visualisasi data UMKM dengan sentuhan motif batik"*
+
+**🎨 Motif Terinspirasi:** Batik parang dan kawung
+
+</td>
+<td align="center" width="50%">
+
+**🗺️ Peta Data Demografi**  
+![Demographic Map](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/demographic_map.png)  
+*"Peta data demografi dengan warna alam Indonesia"*
+
+**🎨 Motif Terinspirasi:** Tenun tradisional dan warna alam
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 📅 **PERJALANAN BELAJAR 8 MINGGU: DARI MUDA HINGGA MAHIR**
 
 ### **🗺️ Peta Perjalanan Pembelajaran**
@@ -168,38 +222,6 @@ Visualization        Business Insight
 Minggu 1   Minggu 2
 [██████]   [████░░]
 ```
-
----
-
-## 🖼️ **GALERI VISUAL: DATA DALAM SENI INDONESIA**
-
-### **🎭 Visualisasi dari Assets Repository**
-> ***"Data yang divisualisasikan dengan indah seperti batik - setiap pola memiliki cerita."***
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**📊 Pola Alur Kerja Analisis**  
-![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc2.png)  
-*"Seperti alur sungai di Nusantara, data mengalir dari sumber hingga insight"*
-
-**🎨 Motif Terinspirasi:** Aliran sungai tradisional dalam relief candi
-
-</td>
-<td align="center" width="50%">
-
-**📈 Dashboard dengan Sentuhan Lokal**  
-![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc.png)  
-*"Dashboard seperti peta kuno - menunjukkan jalan menuju harta karun insight"*
-
-**🎨 Motif Terinspirasi:** Peta kuno Nusantara dan kompas tradisional
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -295,7 +317,7 @@ Minggu 1   Minggu 2
 
 ---
 
-## 🏆 **GELAR & PENGHARGAAN DIGITAL**
+## 🏆 **PENGHARGAAN DIGITAL**
 
 ### **🎖️ Lencana Keahlian Berbudaya**
 <div align="center" style="background: linear-gradient(to right, #F5E8C7, #E6D2A8); padding: 15px; border-radius: 10px; border: 2px solid #8B4513;">
@@ -325,7 +347,10 @@ Minggu 1   Minggu 2
 
 ### **🏅 Trofi Pencapaian GitHub**
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=deuscoco&theme=flat&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&bg_color=F5E8C7&title_color=8B4513&text_color=795548&no-bg=true)
+
+<!-- Versi sederhana yang lebih reliable -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deuscoco&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
+
 </div>
 
 ---
@@ -421,23 +446,6 @@ Minggu 1   Minggu 2
 
 ---
 
-## 🎵 **GENDING KREATIVITAS HARIAN**
-
-### **🌺 Suasana Berkarya Hari Ini**
-```
-🎧 Mendengarkan: Gending Jawa instrumental
-📚 Membaca: "Data untuk Desa" - studi kasus lokal
-💭 Berpikir: Bagaimana dashboard bisa membantu UMKM tradisional?
-🎯 Bekerja: Analisis data pariwisata Indonesia
-🌱 Berkembang: Belajar teknik NLP untuk bahasa daerah
-🪶 Inspirasi: Motif batik sebagai pola data visualization
-```
-
-### **✨ Prinsip Desain Berbasis Budaya**
-> ***"Seperti arsitektur tradisional: fungsional, estetis, dan berkelanjutan. Seperti batik: setiap pola punya makna, setiap warna punya cerita."***
-
----
-
 <footer align="center">
 
 <!-- Footer dengan ornamen tradisional -->
@@ -491,5 +499,3 @@ Minggu 1   Minggu 2
 </div>
 
 </footer>
-
----
