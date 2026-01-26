@@ -11,7 +11,7 @@
 <!-- Badges dengan ikon tradisional Indonesia -->
 <div>
   <img src="https://img.shields.io/badge/🪶-Junior_Data_Analyst-8B4513?style=for-the-badge&logoColor=white&labelColor=F5E8C7"/>
-  <img src="https://img.shields.io/badge/🎯-Python_SQL_Jawa-795548?style=for-the-badge&logo=python&logoColor=white&labelColor=F5E8C7"/>
+  <img src="https://img.shields.io/badge/🎯-Python_SQL-795548?style=for-the-badge&logo=python&logoColor=white&labelColor=F5E8C7"/>
   <img src="https://img.shields.io/badge/📜-Visualisasi_Ala_Nusantara-D4A017?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F5E8C7"/>
   <img src="https://img.shields.io/badge/🌺-Pembelajar_Berkebudayaan-228B22?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7"/>
 </div>
