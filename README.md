@@ -18,6 +18,79 @@
 
 </div>
 
+<br>
+
+<!-- Daftar Isi yang Menarik dengan Desain Batik -->
+<div align="center">
+
+## 📜 **DAFTAR ISI - PANGGUNG WAYANG DATA**
+
+<table style="border-collapse: collapse; width: 100%; background: linear-gradient(135deg, #F5E8C7 0%, #E6D2A8 100%); border-radius: 15px; overflow: hidden;">
+<tr>
+<td style="padding: 20px; border-right: 2px dashed #8B4513; border-bottom: 2px dashed #8B4513;">
+
+### 🎭 **PROFIL & IDENTITAS**
+<table style="width: 100%;">
+<tr><td style="padding: 5px;">🏮 <a href="#-profil-junior-data-analyst">Profil: Junior Data Analyst</a></td></tr>
+<tr><td style="padding: 5px;">📚 <a href="#-perpustakaan-digital">Perpustakaan Digital</a></td></tr>
+<tr><td style="padding: 5px;">📅 <a href="#-perjalanan-belajar-8-minggu">Perjalanan Belajar 8 Minggu</a></td></tr>
+</table>
+
+</td>
+<td style="padding: 20px; border-bottom: 2px dashed #8B4513;">
+
+### 🎨 **KOMPETENSI & KEAHLIAN**
+<table style="width: 100%;">
+<tr><td style="padding: 5px;">🎭 <a href="#-pola-kompetensi-seperti-batik">Pola Kompetensi seperti Batik</a></td></tr>
+<tr><td style="padding: 5px;">🗂️ <a href="#️-proyek-cerita-dari-data-lokal">Proyek: Cerita dari Data Lokal</a></td></tr>
+<tr><td style="padding: 5px;">🖼️ <a href="#️-galeri-visual-data-dalam-seni-indonesia">Galeri Visual: Data dalam Seni Indonesia</a></td></tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td style="padding: 20px; border-right: 2px dashed #8B4513;">
+
+### ⚙️ **ALAT & TEKNOLOGI**
+<table style="width: 100%;">
+<tr><td style="padding: 5px;">🛠️ <a href="#️-perkakas-digital-alat-modern-nilai-tradisi">Perkakas Digital: Alat Modern, Nilai Tradisi</a></td></tr>
+<tr><td style="padding: 5px;">📈 <a href="#-pamor-digital-statistik--prestasi">Pamor Digital: Statistik & Prestasi</a></td></tr>
+<tr><td style="padding: 5px;">🏆 <a href="#-penghargaan-digital">Penghargaan Digital</a></td></tr>
+</table>
+
+</td>
+<td style="padding: 20px;">
+
+### 🌐 **JARINGAN & KOMUNITAS**
+<table style="width: 100%;">
+<tr><td style="padding: 5px;">💭 <a href="#-warung-data-tempat-berbagi-insight">Warung Data: Tempat Berbagi Insight</a></td></tr>
+<tr><td style="padding: 5px;">🌐 <a href="#-jaringan-silaturahmi-digital">Jaringan Silaturahmi Digital</a></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Quick Navigation dengan Ikon -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="#-profil-junior-data-analyst" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🏮_PROFIL-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  </a>
+  <a href="#-perpustakaan-digital" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📚_PERPUSTAKAAN-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  </a>
+  <a href="#-perjalanan-belajar-8-minggu" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📅_PERJALANAN-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  </a>
+  <a href="#-pola-kompetensi-seperti-batik" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🎭_KOMPETENSI-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  </a>
+</div>
+
+</div>
+
 ---
 
 ## 🏮 **PROFIL: JUNIOR DATA ANALYST**
@@ -29,7 +102,7 @@
 <tr>
 <td width="50%">
 
-**🎭 Identitas Diri**
+#### **🎭 Identitas Diri**
 ```
 Nama    : Amadeus Daniel Adisaputra
 Posisi  : Junior Data Analyst  
@@ -41,7 +114,7 @@ Status  : 🌱 Berkembang seperti padi
 </td>
 <td width="50%">
 
-**🎨 Simbolisasi Nilai**
+#### **🎨 Simbolisasi Nilai**
 ```
 🪶 Ketelitian   : Seperti ukiran kayu
 🤝 Gotong Royong: Kolaborasi tim data  
@@ -55,6 +128,100 @@ Status  : 🌱 Berkembang seperti padi
 
 ---
 
+## 📚 **PERPUSTAKAAN DIGITAL**
+
+### **📖 Koleksi Pengetahuan & Portfolio**
+> ***"Seperti perpustakaan lontar Bali, menyimpan pengetahuan untuk generasi mendatang."***
+
+<table>
+<tr>
+<td width="50%">
+
+#### **🏺 Portfolio & Repositori**
+`Status: Terus Berkembang`  
+*Koleksi karya dan pembelajaran digital*
+
+**📂 Portofolio Digital:**
+- 🔗 [GitHub Repositories](https://github.com/deuscoco)
+- 📓 [Jupyter Notebook Collection](https://github.com/deuscoco)
+- 🎯 [Project Documentation](https://github.com/deuscoco)
+- 💡 [GitHub Gists & Snippets](https://gist.github.com/deuscoco)
+
+**📁 Proyek Unggulan:**
+- 📦 [Pengumpulan Data UMKM Digital](https://github.com/deuscoco/week-1-junior-data-analyst)
+- 🔍 [Data Collection Understanding](https://github.com/deuscoco/data-collection-understanding)
+- 🧹 [Pembersihan Data Demografi](https://github.com/deuscoco) *Coming Soon*
+
+**🎨 Ciri Khas:**
+- Kode dengan komentar bahasa Indonesia
+- Dokumentasi dengan filosofi lokal
+- Analisis kontekstual untuk data Indonesia
+
+</td>
+<td width="50%">
+
+#### **📝 Blog & Artikel**
+`Status: Aktif Berkala`  
+*Artikel mendalam tentang data dengan pendekatan Indonesia*
+
+**✍️ Blog Medium:**
+- 🔗 [Medium - Cerita Data Indonesia](https://medium.com/@amadeusrizz)
+
+**📖 Topik Artikel Unggulan:**
+- 🎨 **Visualisasi dengan Motif Tradisional**  
+  *"Mengubah data menjadi karya seni dengan inspirasi batik dan tenun Nusantara"*
+  
+- 🌍 **Analisis Data Demografi Indonesia**  
+  *"Memahami pola kependudukan dengan kearifan lokal dan konteks budaya"*
+  
+- 🤝 **Kolaborasi Data Gotong Royong**  
+  *"Strategi teamwork ala Indonesia dalam proyek data analytics"*
+  
+- 🧹 **Data Cleaning ala Nusantara**  
+  *"Teknik pembersihan data yang menghormati karakteristik data Indonesia"*
+
+**🏮 Filosofi Penulisan:**
+*"Menulis seperti membatik - setiap goresan punya makna, setiap paragraf bercerita"*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📅 **PERJALANAN BELAJAR 8 MINGGU**
+
+### **🗺️ Peta Perjalanan Pembelajaran**
+> ***"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."***
+
+| Minggu | Fokus Pembelajaran | Status | Repository | Filosofi Jawa |
+|--------|-------------------|--------|------------|---------------|
+| **Minggu 1** | **Orientasi & Persiapan Alat** | ✅ Selesai | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | *"Mangan ora mangan sing penting kumpul"* - Berkumpul dengan komunitas data |
+| **Minggu 2** | **Pengumpulan Data** | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | *"Nglumpukke kaya wohing wiji"* - Mengumpulkan seperti memanen hasil |
+| **Minggu 3** | **Pembersihan & Penyaringan** | ⏳ Rencana | 🔗 Coming Soon | *"Resik saka ngisor"* - Bersih dari dasar |
+| **Minggu 4** | **Eksplorasi & Penemuan Pola** | ⏳ Rencana | 🔗 Coming Soon | *"Mlaku-mlaku neng alas"* - Berjalan-jalan di hutan data |
+| **Minggu 5** | **Analisis Mendalam dengan SQL** | ⏳ Rencana | 🔗 Coming Soon | *"Nggoleki intine"* - Mencari inti sari |
+| **Minggu 6** | **Visualisasi & Bercerita** | ⏳ Rencana | 🔗 Coming Soon | *"Nyritakake kanthi gambar"* - Bercerita dengan gambar |
+| **Minggu 7** | **Proyek Terintegrasi** | ⏳ Rencana | 🔗 Coming Soon | *"Gawe karya sak piece"* - Membuat karya utuh |
+| **Minggu 8** | **Presentasi & Portofolio** | ⏳ Rencana | 🔗 Coming Soon | *"Nampilake ing pasar"* - Menampilkan di pasar |
+
+### **📊 Progress dalam Bentuk Candi**
+```
+          Minggu 8
+           [░░░░]
+          /      \
+      Minggu 7   Minggu 6
+      [░░░░]     [░░░░]
+      /    \     /    \
+  Minggu 5   Minggu 4   Minggu 3
+  [░░░░]     [░░░░]     [██░░]
+  /    \     /    \
+Minggu 1   Minggu 2
+[██████]   [████░░]
+```
+
+---
+
 ## 🎭 **POLA KOMPETENSI SEPERTI BATIK**
 
 ### **📊 Peta Kemampuan Berlapis**
@@ -62,17 +229,17 @@ Status  : 🌱 Berkembang seperti padi
 
 | **Bidang Keahlian** | **Tingkat Penguasaan** | **Ikon Tradisional** | **Deskripsi** |
 |-------------------|------------------------|---------------------|---------------|
-| **Bahasa Pemrograman** | | **🪕** *Alat Musik Tradisional* | |
+| **🪕 Bahasa Pemrograman** | | | |
 | Python | ★★★★☆ (80%) | 🐍 | *Fleksibel seperti bambu* |
 | SQL | ★★★★★ (95%) | 🗄️ | *Kuat seperti candi* |
 | R | ★★☆☆☆ (40%) | 📈 | *Sedang dipelajari* |
-| **Analisis Data** | | **📜** *Naskah Kuno* | |
+| **📜 Analisis Data** | | | |
 | Pembersihan Data | ★★★★☆ (85%) | 🧹 | *Rapi seperti ukiran* |
 | Eksplorasi Data | ★★★☆☆ (70%) | 🔍 | *Teliti seperti pengrajin* |
 | Statistik Dasar | ★★★☆☆ (65%) | 📊 | *Presisi seperti timbangan tradisional* |
-| **Visualisasi** | | **🎨** *Lukisan Kaca* | |
+| **🎨 Visualisasi** | | | |
 | Matplotlib | ★★★☆☆ (60%) | 🐍 | *Customizable seperti wayang* |
-| **Alat Bantu** | | **🛠️** *Perkakas Tradisional* | |
+| **🛠️ Alat Bantu** | | | |
 | Git | ★★★★☆ (85%) | 🌳 | *Sejarah seperti prasasti* |
 | VS Code | ★★★★☆ (80%) | ✍️ | *Pena modern* |
 
@@ -164,65 +331,6 @@ Visualization        Business Insight
 </table>
 </div>
 
-### **🎨 Layout Visualisasi Data**
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**📊 Analisis Data UMKM**  
-![UMKM Analysis](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/umkm_analysis.png)  
-*"Visualisasi data UMKM dengan sentuhan motif batik"*
-
-**🎨 Motif Terinspirasi:** Batik parang dan kawung
-
-</td>
-<td align="center" width="50%">
-
-**🗺️ Peta Data Demografi**  
-![Demographic Map](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/demographic_map.png)  
-*"Peta data demografi dengan warna alam Indonesia"*
-
-**🎨 Motif Terinspirasi:** Tenun tradisional dan warna alam
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📅 **PERJALANAN BELAJAR 8 MINGGU: DARI MUDA HINGGA MAHIR**
-
-### **🗺️ Peta Perjalanan Pembelajaran**
-> ***"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."***
-
-| Minggu | Fokus Pembelajaran | Status | Repository | Filosofi Jawa |
-|--------|-------------------|--------|------------|---------------|
-| **Minggu 1** | **Orientasi & Persiapan Alat** | ✅ Selesai | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | *"Mangan ora mangan sing penting kumpul"* - Berkumpul dengan komunitas data |
-| **Minggu 2** | **Pengumpulan Data** | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | *"Nglumpukke kaya wohing wiji"* - Mengumpulkan seperti memanen hasil |
-| **Minggu 3** | **Pembersihan & Penyaringan** | ⏳ Rencana | 🔗 Coming Soon | *"Resik saka ngisor"* - Bersih dari dasar |
-| **Minggu 4** | **Eksplorasi & Penemuan Pola** | ⏳ Rencana | 🔗 Coming Soon | *"Mlaku-mlaku neng alas"* - Berjalan-jalan di hutan data |
-| **Minggu 5** | **Analisis Mendalam dengan SQL** | ⏳ Rencana | 🔗 Coming Soon | *"Nggoleki intine"* - Mencari inti sari |
-| **Minggu 6** | **Visualisasi & Bercerita** | ⏳ Rencana | 🔗 Coming Soon | *"Nyritakake kanthi gambar"* - Bercerita dengan gambar |
-| **Minggu 7** | **Proyek Terintegrasi** | ⏳ Rencana | 🔗 Coming Soon | *"Gawe karya sak piece"* - Membuat karya utuh |
-| **Minggu 8** | **Presentasi & Portofolio** | ⏳ Rencana | 🔗 Coming Soon | *"Nampilake ing pasar"* - Menampilkan di pasar |
-
-### **📊 Progress dalam Bentuk Candi**
-```
-          Minggu 8
-           [░░░░]
-          /      \
-      Minggu 7   Minggu 6
-      [░░░░]     [░░░░]
-      /    \     /    \
-  Minggu 5   Minggu 4   Minggu 3
-  [░░░░]     [░░░░]     [██░░]
-  /    \     /    \
-Minggu 1   Minggu 2
-[██████]   [████░░]
-```
-
 ---
 
 ## 🛠️ **PERKAKAS DIGITAL: ALAT MODERN, NILAI TRADISI**
@@ -265,32 +373,6 @@ Minggu 1   Minggu 2
 </tr>
 </table>
 
-### **🎨 Alat Visualisasi dengan Estetika Nusantara**
-<table>
-<tr>
-<td width="50%">
-
-#### **📊 Tableau**
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F5E8C7"/>
-
-**Inspirasi Estetika:** Motif batik dan tenun  
-**Penerapan:** Dashboard dengan palet warna alam Indonesia  
-**Kelebihan:** Interaktif seperti wayang kulit digital
-
-</td>
-<td width="50%">
-
-#### **📈 Power BI**
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F5E8C7"/>
-
-**Inspirasi Estetika:** Ukiran kayu dan logam  
-**Penerapan:** Laporan bisnis dengan struktur jelas  
-**Kelebihan:** Integrasi kuat, seperti sistem irigasi subak
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📈 **PAMOR DIGITAL: STATISTIK & PRESTASI**
@@ -309,11 +391,6 @@ Minggu 1   Minggu 2
 </a>
 
 </div>
-
-### **📅 Ritme Aktivitas Mingguan**
-> ***"Seperti irama gamelan, konsistensi dalam berkarya."***
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deuscoco&theme=github-light&bg_color=F5E8C7&color=795548&line=8B4513&point=D4A017&area=true&hide_border=true&custom_title=ꦫꦶꦠꦩꦺꦴꦤ꧀ꦏꦺꦴꦣꦶꦁꦏꦸꦮꦶꦤ꧀ꦠꦸꦏ꧀" width="100%"/>
 
 ---
 
@@ -345,14 +422,6 @@ Minggu 1   Minggu 2
 
 </div>
 
-### **🏅 Trofi Pencapaian GitHub**
-<div align="center">
-
-<!-- Versi sederhana yang lebih reliable -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deuscoco&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
-
-</div>
-
 ---
 
 ## 💭 **WARUNG DATA: TEMPAT BERBAGI INSIGHT**
@@ -360,7 +429,6 @@ Minggu 1   Minggu 2
 ### **🪶 Pepatah Data Nusantara**
 > ***"Data tanpa konteks bagai keris tanpa pamor, hanya besi biasa. Insight tanpa aksi bagai peta tanpa perjalanan, hanya gambar di kertas."***
 
-### **📜 Gulungan Kebijaksanaan Data**
 <details>
 <summary>🔄 Buka gulungan kebijaksanaan data</summary>
 
@@ -375,12 +443,6 @@ Minggu 1   Minggu 2
 - **Analisis tren** seperti prediksi cuaca tradisional - membaca tanda-tanda alam data
 - **Machine learning** seperti pembuatan tempe - butuh proses dan kesabaran
 - **Data cleaning** seperti mencuci beras - menghilangkan kotoran, mempertahankan nutrisi
-
-#### **Analog Tradisional untuk Konsep Modern**
-- **Database** = Lumbung padi digital
-- **API** = Jalan perdagangan rempah modern
-- **Cloud Computing** = Awan yang menyimpan harta karun data
-- **Dashboard** = Peta harta karun insight
 </details>
 
 ---
@@ -390,16 +452,7 @@ Minggu 1   Minggu 2
 ### **🤝 Menjalin Hubungan di Dunia Data**
 > ***"Seperti pertemuan di pasar tradisional, mari bertukar cerita dan insight."***
 
-<div align="center" style="background: linear-gradient(135deg, #F5E8C7, #E6D2A8); padding: 20px; border-radius: 15px; border: 3px double #8B4513;">
-
-**🎭 Gerbang Koneksi Digital**
-```
-        [📱 Instagram]
-           /      \
-   [💻 GitHub]  [📚 Medium]
-         \          /
-        [🎵 TikTok]
-```
+<div align="center">
 
 <table>
 <tr>
@@ -438,62 +491,16 @@ Minggu 1   Minggu 2
 
 </div>
 
-### **📚 Perpustakaan Digital Pribadi**
-- **📖 Portfolio Digital:** *Dalam proses pembuatan seperti pembuatan keris*
-- **📝 Blog Analisis:** [Medium - Data dengan Rasa Indonesia](https://medium.com/@amadeusrizz)
-- **🗂️ Arsip Belajar:** Repository GitHub sebagai catatan perjalanan
-- **💡 Snippet Berguna:** [GitHub Gist Collection](https://gist.github.com/deuscoco)
-
 ---
 
 <footer align="center">
 
-<!-- Footer dengan ornamen tradisional -->
 <div style="background: linear-gradient(to bottom, #E6D2A8, #D4BC8A); padding: 25px; border-radius: 20px 20px 0 0; border-top: 5px solid #8B4513;">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=e6d2a8,d4bc8a&height=80&section=footer&text=ꦢꦠ꦳ꦴ • ꦧꦸꦢꦪ • ꦩꦱꦴꦣꦺꦥꦤ꧀&fontSize=26&fontColor=5d4037&animation=twinkling" width="100%"/>
 
 <div style="margin-top: 20px; color: #5D4037; font-family: 'Javanese Text', serif;">
   <b>ꦱꦼꦏꦼꦕꦶꦭ꧀ꦲꦥꦮꦺꦴꦤ꧀ꦢꦠ꦳ꦴꦔꦒꦼꦭꦂꦲꦶꦤ꧀ꦱꦲꦾꦠ꧀ꦪꦁꦧꦼꦂꦩꦏ꧀ꦤ</b>
-</div>
-
-<div style="margin-top: 15px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  
-  <div style="text-align: center; min-width: 120px;">
-    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦢꦶꦒꦮꦺ</div>
-    <div style="font-size: 18px; color: #8B4513;">💖 📊</div>
-    <div style="font-size: 11px; color: #795548;">dengan hati & data</div>
-  </div>
-  
-  <div style="text-align: center; min-width: 120px;">
-    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦥꦼꦂꦧꦂꦪꦤ꧀</div>
-    <div style="font-size: 18px; color: #8B4513;">ꦗꦤꦸꦮꦫꦶ ꧒꧐꧒꧔</div>
-    <div style="font-size: 11px; color: #795548;">Januari 2024</div>
-  </div>
-  
-  <div style="text-align: center; min-width: 120px;">
-    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦮꦂꦤ</div>
-    <div style="font-size: 18px; color: #8B4513;">꧓.꧐ 🇮🇩</div>
-    <div style="font-size: 11px; color: #795548;">Versi 3.0</div>
-  </div>
-  
-  <div style="text-align: center; min-width: 120px;">
-    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦥꦤꦺꦮꦺꦴꦤ꧀</div>
-    <div style="font-size: 18px; color: #8B4513;">
-      <img src="https://komarev.com/ghpvc/?username=deuscoco&label=&color=8B4513&style=flat-square&labelColor=F5E8C7" alt="Profile views" />
-    </div>
-    <div style="font-size: 11px; color: #795548;">dilihat</div>
-  </div>
-
-</div>
-
-<div style="margin-top: 25px; padding-top: 15px; border-top: 2px dashed #8B4513;">
-  <div style="font-size: 12px; color: #795548; font-style: italic;">
-    "ꦲꦺꦴꦫꦠ꦳ꦴꦏꦼꦧꦺꦏꦸꦭ꧀ꦲꦺꦴꦫꦠ꦳ꦴꦏꦼꦧꦺꦏꦸꦭ꧀ꦥꦸꦤ꧀ꦢꦶꦩꦺꦔꦺꦤꦺꦔꦺꦤꦶ"
-  </div>
-  <div style="font-size: 10px; color: #795548; margin-top: 5px;">
-    <i>Orang berkebun, orang berkebun pula yang akan memanennya</i>
-  </div>
 </div>
 
 </div>
