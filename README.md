@@ -196,10 +196,10 @@ Status  : 🌱 Berkembang seperti padi
 | Minggu | Fokus Pembelajaran | Status | Repository | Filosofi Jawa |
 |------:|-------------------|--------|------------|---------------|
 | **Minggu 1** | **Orientasi & Persiapan Alat** | ✅ Selesai | [🔗 Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | *Mangan ora mangan sing penting kumpul* — Belajar bersama komunitas |
-| **Minggu 2** | **Pengumpulan Data** | 🟡 Berjalan | [🔗 Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | *Nglumpukke kaya wohing wiji* — Mengumpulkan seperti memanen |
+| **Minggu 2** | **Pengumpulan Data** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | *Nglumpukke kaya wohing wiji* — Mengumpulkan seperti memanen |
 | **Minggu 3** | **Pembersihan & Penyaringan Data** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-3-data-cleaning) | *Resik saka ngisor* — Membersihkan dari dasar |
-| **Minggu 4** | **Eksplorasi & Penemuan Pola** | 🟡 Berjalan | [🔗 Lihat Repo](https://github.com/deuscoco/week-4) | *Mlaku-mlaku neng alas* — Menjelajah hutan data |
-| **Minggu 5** | **Analisis Mendalam dengan SQL** | ⏳ Rencana | 🔒 Coming Soon | *Nggoleki intine* — Mencari inti sari |
+| **Minggu 4** | **Eksplorasi & Penemuan Pola** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-4) | *Mlaku-mlaku neng alas* — Menjelajah hutan data |
+| **Minggu 5** | **Analisis Mendalam dengan SQL** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-5) | *Nggoleki intine* — Mencari inti sari |
 | **Minggu 6** | **Visualisasi & Data Storytelling** | ⏳ Rencana | 🔒 Coming Soon | *Nyritakake kanthi gambar* — Bercerita lewat visual |
 | **Minggu 7** | **Proyek Terintegrasi** | ⏳ Rencana | 🔒 Coming Soon | *Gawe karya sak piece* — Membangun karya utuh |
 | **Minggu 8** | **Presentasi & Portofolio Akhir** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-8) | *Nampilake ing pasar* — Menampilkan ke publik |
