@@ -202,7 +202,7 @@ Status  : 🌱 Berkembang seperti padi
 | **Minggu 5** | **Analisis Mendalam dengan SQL** | ⏳ Rencana | 🔒 Coming Soon | *Nggoleki intine* — Mencari inti sari |
 | **Minggu 6** | **Visualisasi & Data Storytelling** | ⏳ Rencana | 🔒 Coming Soon | *Nyritakake kanthi gambar* — Bercerita lewat visual |
 | **Minggu 7** | **Proyek Terintegrasi** | ⏳ Rencana | 🔒 Coming Soon | *Gawe karya sak piece* — Membangun karya utuh |
-| **Minggu 8** | **Presentasi & Portofolio Akhir** | ⏳ Rencana | 🔒 Coming Soon | *Nampilake ing pasar* — Menampilkan ke publik |
+| **Minggu 8** | **Presentasi & Portofolio Akhir** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-8) | *Nampilake ing pasar* — Menampilkan ke publik |
 
 
 ### **📊 Progress dalam Bentuk Candi**
